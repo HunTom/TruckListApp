@@ -1,0 +1,2 @@
+# TruckListApp
+MVC tanulófeladat
