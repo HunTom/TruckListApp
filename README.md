@@ -23,4 +23,4 @@ HTTP kérések felfedezése és gyakorlás
 - [x] Controller létrehozása aminek ugyazt a nevet kell adni mint az előbb létrehozott mappa (TrucksController)
 - [x] Index oldalként átmozgatjuk a régi Truck.cshtml-t és elhejezünk rajta egy linket ami a Create.cshtml-re mutat
 - [x] Függvények megírása a TrucksControllerben, hogy működjön a hozzáadás
-- [] Create.cshtml megalkotása
+- [x] Create.cshtml megalkotása
